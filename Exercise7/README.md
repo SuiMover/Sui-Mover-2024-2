@@ -1,0 +1,3 @@
+本週的題目屬於 App 開發的範疇，因此沒有固定的作業格式。想請你試著參考影片與程式碼，復刻一次 Sui Dapp 達成同樣的功能，並且試著讓他支援其他的 Coin，也就是不只 Sui, 你還可以在測試網轉發你錢包持有的不同的幣！
+
+This week's assignment falls under the category of app development, so there is no fixed format. Please try to follow the video and code provided to recreate the Sui Dapp with the same functionality. Additionally, try to extend it to support other coins—not just SUI—so you can forward different tokens held in your wallet on the testnet!
