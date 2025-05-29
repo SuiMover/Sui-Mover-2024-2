@@ -14,7 +14,7 @@
 
 [Lesson 5](./Lesson5)
 
-[Exercise 5](./Exercise5)
+[Exercise 5](./Lesson5/README.md#exercise-5-mint-your-simple-nft)
 
 [Lesson 6](./Lesson6)
 
@@ -27,4 +27,3 @@
 [Lesson 8](./Lesson8)
 
 [Exercise 8](./Exercise8)
-
